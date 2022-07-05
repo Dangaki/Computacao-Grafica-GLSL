@@ -1,0 +1,15 @@
+Trabalho referente a M3 - Trabalho 2 sobre movimentar, rotacionar e escalar em shaders;
+
+    Alunos:
+            Daniel Akira Nakamura Gullich
+            Lucas Gabriel Grutka Telles
+            Eduardo Oliveira
+
+    Comandos:
+            Esc - Sair
+            WASD QE - Movimentar (Translação)
+            IJKL UO - Rotacionar
+            VB		- Escalar
+
+OBS: 	Foi utilizado o exemplo dado em aula pois não conseguimos 
+	fazer a entrada das posições no shader de um obj do ultimo trabalho.

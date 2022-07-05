@@ -1,0 +1,15 @@
+Trabalho referente a M2 e M3
+
+    Alunos:
+            Daniel Akira Nakamura Gullich
+            Lucas Gabriel Grutka Telles
+            Eduardo Oliveira
+
+    Comandos:
+            Esc - Sair
+            WASD QE - Movimentar (Translação)
+            IJKL UO - Rotacionar
+            VB		- Escalar
+            
+            Setas   - Movimenta Luz
+            1 2     - Intensidade da Luz
